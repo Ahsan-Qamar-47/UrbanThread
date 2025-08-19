@@ -22,6 +22,7 @@ HTML5
 Tailwind CSS (CDN version, no build process required)
 
 📷 ScreenShot 
+
 ![Preview of the Website Page](Images/website-screenshot.png)
 
 🎨 Customization
